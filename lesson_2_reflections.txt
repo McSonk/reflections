@@ -20,3 +20,7 @@ just for fun
 How do the diagrams help you visualize the branch structure?
 The branch structure can be seen as a graph. Since, a diagram
 could explain further the structure of the graph.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is a "new" branch containing the result of the previous two. We represented 
+that way because the two paths become one at the time of the merge
