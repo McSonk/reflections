@@ -16,3 +16,7 @@ represent a logical change.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you have to do several changes to general performance or improvement, or maybe
 just for fun
+
+How do the diagrams help you visualize the branch structure?
+The branch structure can be seen as a graph. Since, a diagram
+could explain further the structure of the graph.
