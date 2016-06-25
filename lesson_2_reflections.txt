@@ -24,3 +24,9 @@ could explain further the structure of the graph.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is a "new" branch containing the result of the previous two. We represented 
 that way because the two paths become one at the time of the merge
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+By always doing automatic merging, it would be faster to merge to branches. But, on the other hand,
+would lead to huge errors.
+
+By always doing manual merges, the merges would be more exact, but the time would increase a lot
